@@ -1,1 +1,2 @@
 repository ini dibuat sebagaai trial dalam belajar menggunakan github dalam menjalani kuliah saya 
+belajar mengedit repository yang telah dibuat tadi
