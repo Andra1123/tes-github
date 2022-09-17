@@ -1,3 +1,4 @@
 repository ini dibuat sebagaai trial dalam belajar menggunakan github dalam menjalani kuliah saya 
 belajar mengedit repository yang telah dibuat
 menambahkan kalimat
+untuk melihat perubahan yang telah terjadi sebelumnya gunakan fitur history
