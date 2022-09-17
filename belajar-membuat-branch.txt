@@ -1,4 +1,4 @@
 BRANCH PERTAMA SAYA !!!
 MENAMBAHNKAN KETERANGAN UNTUK COMMIT
 belajar merge 
-belajar membuat resolve
+melanjut kan pelajaran git tentang resolve problem
