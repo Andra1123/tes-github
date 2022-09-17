@@ -1,2 +1,4 @@
 BRANCH PERTAMA SAYA !!!
 MENAMBAHNKAN KETERANGAN UNTUK COMMIT
+belajar merge 
+belajar membuat resolve
